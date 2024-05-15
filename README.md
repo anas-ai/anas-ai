@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm anas rizvi</h1>
-<h3 align="center">Unlocking Mobile Potential: Expert React Native Development</h3>
+<h3 align="center">Unlocking Mobile Potential: Passionate learner diving into React Native, crafting mobile experiences with JavaScript prowess and native app finesse.</h3>
 
 - 🔭 I’m currently working on Burak It **aroma travels**
 
