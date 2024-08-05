@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm anas rizvi</h1>
 <h3 align="center">Unlocking Mobile Potential: Passionate learner diving into React Native, crafting mobile experiences with JavaScript prowess and native app finesse.</h3>
 
-- 🔭 I’m currently working on Burak It **JSV**
+- 🔭 I’m currently working on Burak
 
-- 🌱 I’m currently learning **react native**
+- 🌱 I’m currently learning **javaScript with react native framwork**
 
 - 💬As a React Native developer, ask me about crafting seamless user interfaces, optimizing performance, or integrating third-party libraries for enhanced functionality. Ask me about **react ,react-native , php,html,css , javascript**
 
