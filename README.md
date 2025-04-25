@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **JavaScript with react native framwork**
 
-- 💬As a React Native developer, ask me about crafting seamless user interfaces, optimizing performance, or integrating third-party libraries for enhanced functionality. Ask me about **react ,react-native , php,html,css , javascript**
+- 💬As a React Native developer, ask me about crafting seamless user interfaces, optimizing performance, or integrating third-party libraries for enhanced functionality. Ask me about **react ,react-native , TypeScript, JavaScript**
 
 - 📫 How to reach me **anasrizvi4206@gmail.com**
 
