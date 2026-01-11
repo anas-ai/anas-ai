@@ -8,7 +8,7 @@
 ---
 
 ### 🔭 Current Focus
-- Working at **TechnoProfile**
+  
 - Building robust mobile apps using **React Native**
 
 ### 🌱 Currently Learning
